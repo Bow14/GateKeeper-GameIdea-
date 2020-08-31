@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="CollisionTransparent.cs" t="Include" />
+          <e p="MoveScript.cs" t="Include" />
         </e>
       </e>
       <e p="Gatekeeper.sln" t="IncludeFlat" />
