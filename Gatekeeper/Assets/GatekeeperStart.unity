@@ -714,7 +714,7 @@ BoxCollider:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 201413455}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -4233,6 +4233,9 @@ MonoBehaviour:
   keyboard: {fileID: 1308922397}
   speed: 5
   gravity: 3
+  jumpSpeed: 30
+  jumpCount: 0
+  jumpMax: 0
 --- !u!143 &1308922397
 CharacterController:
   m_ObjectHideFlags: 0
@@ -5041,7 +5044,7 @@ BoxCollider:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1780992365}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}

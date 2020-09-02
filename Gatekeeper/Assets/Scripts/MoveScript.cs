@@ -9,7 +9,9 @@ public class MoveScript : MonoBehaviour
 	public CharacterController keyboard;
 	public float speed = 5f;
 	public float gravity = 3f;
-	
+	public float jumpSpeed = 30f;
+	public int jumpCount;
+	public int jumpMax;
 	
 	// Use this for initialization
 	void Start ()
@@ -30,10 +32,17 @@ public class MoveScript : MonoBehaviour
 		}
 		else if (Input.GetAxis("Horizontal")< 0)
 		{
-			Vector3 newScale = new Vector3(-1,-1,-1);
+			Vector3 newScale = new Vector3(-1,1,1);
 			transform.localScale = newScale;
 		}
-		
+
+		if (Input.GetButtonDown("Jump"))
+		{
+			jumpCount++;
+			position.y = jumpSpeed;
+		}
+
+		keyboard.Move(position * Time.deltaTime);
 
 	}
 }
