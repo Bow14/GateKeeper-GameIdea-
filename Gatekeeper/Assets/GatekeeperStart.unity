@@ -4232,8 +4232,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   keyboard: {fileID: 1308922397}
   speed: 5
-  gravity: 3
-  jumpSpeed: 30
+  gravity: 2
+  jumpSpeed: 45
   jumpCount: 0
   jumpMax: 0
 --- !u!143 &1308922397
