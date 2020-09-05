@@ -13,6 +13,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CollisionTransparent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Camera.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -20,6 +21,7 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/CollisionTransparent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Camera.cs" />
       </list>
     </option>
   </component>
@@ -74,6 +76,7 @@
       <workItem from="1598848781850" duration="1572000" />
       <workItem from="1599018890192" duration="621000" />
       <workItem from="1599108251634" duration="280000" />
+      <workItem from="1599282061857" duration="348000" />
     </task>
     <servers />
   </component>
