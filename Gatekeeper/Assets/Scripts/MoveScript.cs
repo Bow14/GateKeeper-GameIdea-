@@ -7,12 +7,16 @@ public class MoveScript : MonoBehaviour
 
 	private Vector3 position;
 	public CharacterController keyboard;
-	public float speed = 5f;
+	public float speed = 10f;
 	public float gravity = 3f;
 	public float jumpSpeed = 30f;
 	public int jumpCount;
-	public int jumpMax;
-	
+	public int jumpMax = 2;
+
+	public void ChangeJumpMax()
+	{
+		jumpMax = 2;
+	}
 	// Use this for initialization
 	void Start ()
 	{
@@ -36,7 +40,7 @@ public class MoveScript : MonoBehaviour
 			transform.localScale = newScale;
 		}
 
-		if (Input.GetButtonDown("Jump"))
+		if (Input.GetButtonDown("Jump")&& jumpCount < jumpMax)
 		{
 			jumpCount++;
 			position.y = jumpSpeed;
@@ -52,6 +56,11 @@ public class MoveScript : MonoBehaviour
 			speed = 10;
 		}
 
+		if (keyboard.isGrounded)
+		{
+			position.y = 0;
+			jumpCount = 0;
+		}
 		keyboard.Move(position * Time.deltaTime);
 
 	}
