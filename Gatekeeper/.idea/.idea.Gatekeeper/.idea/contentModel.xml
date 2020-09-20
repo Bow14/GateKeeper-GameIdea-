@@ -11,6 +11,7 @@
           <e p="CollisionTransparent.cs" t="Include" />
           <e p="Description.cs" t="Include" />
           <e p="MoveScript.cs" t="Include" />
+          <e p="WinScript.cs" t="Include" />
         </e>
       </e>
       <e p="Gatekeeper.sln" t="IncludeFlat" />

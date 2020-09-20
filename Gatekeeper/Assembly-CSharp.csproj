@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scripts\CollisionTransparent.cs" />
     <Compile Include="Assets\Scripts\Description.cs" />
     <Compile Include="Assets\Scripts\MoveScript.cs" />
+    <Compile Include="Assets\Scripts\WinScript.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/huffn/Documents/Git repo/GateKeeper-GameIdea-/Gatekeeper/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
