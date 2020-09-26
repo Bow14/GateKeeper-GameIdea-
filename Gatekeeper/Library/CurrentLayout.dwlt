@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 471}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 471}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -88,7 +88,7 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 913, y: 421}
+  m_MinSize: {x: 913, y: 442}
   m_MaxSize: {x: 22008, y: 10021}
   vertical: 0
   controlID: 93
@@ -132,8 +132,8 @@ MonoBehaviour:
     y: 0
     width: 907
     height: 947
-  m_MinSize: {x: 202, y: 421}
-  m_MaxSize: {x: 4002, y: 8021}
+  m_MinSize: {x: 202, y: 442}
+  m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
   controlID: 70
 --- !u!114 &7
@@ -254,8 +254,8 @@ MonoBehaviour:
     y: 486
     width: 907
     height: 461
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -288,9 +288,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 9891ffff
-    m_LastClickedID: -28264
-    m_ExpandedIDs: eefbffff00000000
+    m_SelectedIDs: 322f0000
+    m_LastClickedID: 0
+    m_ExpandedIDs: 20ccffffeefbffff00000000440c0000580c0000ca0d0000fe0d00001c0e00005a0e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -385,19 +385,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Material
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Material
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\huffn\Documents\Git repo\GateKeeper-GameIdea-\Gatekeeper
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 600b0000
-    m_LastClickedID: 2912
+    m_SelectedIDs: 400b0000
+    m_LastClickedID: 2880
     m_ExpandedIDs: 00000000f608000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -453,7 +453,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -582,14 +582,14 @@ MonoBehaviour:
     height: 465
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 182.18033889999998
+  lastFramingTime: 393.03493799999995
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 28.37, y: -0.20999998, z: 0.19}
+    m_Target: {x: 378, y: -247.5, z: 0}
     speed: 2
-    m_Value: {x: 28.37, y: -0.20999998, z: 0.19}
+    m_Value: {x: 378, y: -247.5, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -619,11 +619,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.07373179, y: 0.021246275, z: -0.0016958322, w: 0.9971468}
     speed: 2
-    m_Value: {x: 0.073724695, y: 0.021244232, z: -0.0016956691, w: 0.9970509}
+    m_Value: {x: -0.07373179, y: -0.021246275, z: 0.0016958321, w: -0.9971467}
   m_Size:
-    m_Target: 17.695131
+    m_Target: 1759.8058
     speed: 2
-    m_Value: 17.695131
+    m_Value: 1759.8058
   m_Ortho:
     m_Target: 0
     speed: 2

@@ -13,6 +13,8 @@ public class MoveScript : MonoBehaviour
 	public int jumpCount;
 	public int jumpMax = 2;
 
+	
+	
 	public void ChangeJumpMax()
 	{
 		jumpMax = 2;
