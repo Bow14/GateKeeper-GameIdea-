@@ -12,10 +12,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ui/UiTextEd.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WinScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ui/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gemscore.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CollisionTransparent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Camera.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Spikestuff.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Counter.cs" root0="FORCE_HIGHLIGHTING" />
@@ -31,6 +32,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Gemscore.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Counter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ui/IntData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ui/UiTextEd.cs" />
       </list>
     </option>
   </component>
@@ -96,6 +100,7 @@
       <workItem from="1599622189220" duration="840000" />
       <workItem from="1600577066388" duration="223000" />
       <workItem from="1601092611055" duration="1829000" />
+      <workItem from="1601781974542" duration="2609000" />
     </task>
     <servers />
   </component>

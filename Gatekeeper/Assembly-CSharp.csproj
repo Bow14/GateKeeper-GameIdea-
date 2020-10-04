@@ -59,13 +59,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Camera.cs" />
     <Compile Include="Assets\Scripts\CollisionTransparent.cs" />
     <Compile Include="Assets\Scripts\Counter.cs" />
     <Compile Include="Assets\Scripts\Description.cs" />
     <Compile Include="Assets\Scripts\Gemscore.cs" />
     <Compile Include="Assets\Scripts\MoveScript.cs" />
     <Compile Include="Assets\Scripts\Spikestuff.cs" />
+    <Compile Include="Assets\Scripts\Ui\Camera.cs" />
+    <Compile Include="Assets\Scripts\Ui\IntData.cs" />
+    <Compile Include="Assets\Scripts\Ui\UiTextEd.cs" />
     <Compile Include="Assets\Scripts\WinScript.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/huffn/Documents/Git repo/GateKeeper-GameIdea-/Gatekeeper/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
