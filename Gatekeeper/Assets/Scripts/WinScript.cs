@@ -13,6 +13,8 @@ public class WinScript : MonoBehaviour
 	{
 		
 		print("Gem Collected Move Forward");
+		
+		script.Invoke();
 	}
 
 	// Use this for initialization

@@ -8,15 +8,15 @@ public class UiTextEd : MonoBehaviour
 {
 
 
-	private Text Label;
+	private Text _label;
 
 	public void UpdateText(IntData data)
 	{
-		Label.text = data.gemScore.ToString();
+		_label.text = data.gemScore.ToString();
 	}
 
 	private void Awake()
 	{
-		Label = GetComponent<Text>();
+		_label = GetComponent<Text>();
 	}
 }

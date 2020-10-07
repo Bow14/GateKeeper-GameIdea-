@@ -28,13 +28,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CollisionTransparent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Camera.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Description.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/WinScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Gemscore.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Counter.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Ui/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Ui/UiTextEd.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WinScript.cs" />
       </list>
     </option>
   </component>
@@ -101,6 +101,7 @@
       <workItem from="1600577066388" duration="223000" />
       <workItem from="1601092611055" duration="1829000" />
       <workItem from="1601781974542" duration="2609000" />
+      <workItem from="1602037488270" duration="725000" />
     </task>
     <servers />
   </component>
