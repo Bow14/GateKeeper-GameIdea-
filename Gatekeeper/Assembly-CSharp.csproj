@@ -62,6 +62,7 @@
     <Compile Include="Assets\Scripts\CollisionTransparent.cs" />
     <Compile Include="Assets\Scripts\Counter.cs" />
     <Compile Include="Assets\Scripts\Description.cs" />
+    <Compile Include="Assets\Scripts\Destory.cs" />
     <Compile Include="Assets\Scripts\Gemscore.cs" />
     <Compile Include="Assets\Scripts\MoveScript.cs" />
     <Compile Include="Assets\Scripts\Spikestuff.cs" />

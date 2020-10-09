@@ -10,6 +10,7 @@
           <e p="CollisionTransparent.cs" t="Include" />
           <e p="Counter.cs" t="Include" />
           <e p="Description.cs" t="Include" />
+          <e p="Destory.cs" t="Include" />
           <e p="Gemscore.cs" t="Include" />
           <e p="MoveScript.cs" t="Include" />
           <e p="Spikestuff.cs" t="Include" />
