@@ -29,7 +29,6 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/CollisionTransparent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Camera.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Description.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Gemscore.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Counter.cs" />
@@ -39,6 +38,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/WinScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TestDestory.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Destory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Description.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/destroy2.cs" />
       </list>
     </option>
@@ -109,6 +109,7 @@
       <workItem from="1602037488270" duration="725000" />
       <workItem from="1602221035427" duration="262000" />
       <workItem from="1602559942182" duration="3490000" />
+      <workItem from="1602643018402" duration="746000" />
     </task>
     <servers />
   </component>

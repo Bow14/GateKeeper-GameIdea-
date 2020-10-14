@@ -4,12 +4,13 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class destroy2 : MonoBehaviour {
-	private void OnCollisionEnter(Collision collision)
+	private void OnTriggerEnter(Collider other)
 	{
-		if (collision.gameObject.CompareTag("GameController"))
+		Debug.Log("Gammer");
+		if (other.gameObject.CompareTag("GameController"))
 		{
-			Destroy(collision.gameObject);
-			Debug.Log("Gammer");
+			Destroy(other.gameObject);
+			
 			
 		}
 

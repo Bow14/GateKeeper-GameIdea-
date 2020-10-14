@@ -10,9 +10,12 @@ public class Description : MonoBehaviour
 
 	private void OnTriggerStay(Collider other)
 	{
+		Debug.Log("Yesbueno");
 		if (Input.GetKeyDown(KeyCode.E))
 		{
 			print("Welcome to GateKeeper, Find the gems and compelete the level. GL :D");
+			
+			
 		}
 	}
 
