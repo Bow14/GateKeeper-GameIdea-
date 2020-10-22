@@ -1603,7 +1603,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 0
+  m_Text: CollectGems
 --- !u!222 &481586113
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5291,7 +5291,7 @@ MonoBehaviour:
   keyboard: {fileID: 1308922397}
   speed: 5
   gravity: 1
-  jumpSpeed: 30
+  jumpSpeed: 25
   jumpCount: 0
   jumpMax: 2
 --- !u!143 &1308922397

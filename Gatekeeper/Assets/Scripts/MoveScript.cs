@@ -50,7 +50,7 @@ public class MoveScript : MonoBehaviour
 
 		if (Input.GetKeyDown(KeyCode.LeftShift))
 		{
-			speed = 20;
+			speed = 15;
 		}
 
 		if (Input.GetKeyUp(KeyCode.LeftShift))
