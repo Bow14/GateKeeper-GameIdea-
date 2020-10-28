@@ -17,7 +17,9 @@
           <e p="Spikestuff.cs" t="Include" />
           <e p="Ui" t="Include">
             <e p="Camera.cs" t="Include" />
+            <e p="GameManger.cs" t="Include" />
             <e p="IntData.cs" t="Include" />
+            <e p="LevelEnd.cs" t="Include" />
             <e p="UiTextEd.cs" t="Include" />
           </e>
           <e p="WinScript.cs" t="Include" />
