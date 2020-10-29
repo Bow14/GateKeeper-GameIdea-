@@ -17,7 +17,7 @@ public class MoveScript : MonoBehaviour
 	
 	public void ChangeJumpMax()
 	{
-		jumpMax = 2;
+		jumpMax = 3;
 	}
 	// Use this for initialization
 	void Start ()

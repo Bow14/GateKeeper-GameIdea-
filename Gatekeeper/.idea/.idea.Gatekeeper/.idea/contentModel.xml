@@ -7,11 +7,9 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
-          <e p="CollisionTransparent.cs" t="Include" />
           <e p="Counter.cs" t="Include" />
           <e p="Description.cs" t="Include" />
           <e p="Destory.cs" t="Include" />
-          <e p="destroy2.cs" t="Include" />
           <e p="Gemscore.cs" t="Include" />
           <e p="MoveScript.cs" t="Include" />
           <e p="Spikestuff.cs" t="Include" />
@@ -23,6 +21,11 @@
             <e p="UiTextEd.cs" t="Include" />
           </e>
           <e p="WinScript.cs" t="Include" />
+        </e>
+        <e p="Triggers" t="Include">
+          <e p="ActualTrigger.cs" t="Include" />
+          <e p="CollisionTransparent.cs" t="Include" />
+          <e p="destroy2.cs" t="Include" />
         </e>
       </e>
       <e p="Gatekeeper.sln" t="IncludeFlat" />
