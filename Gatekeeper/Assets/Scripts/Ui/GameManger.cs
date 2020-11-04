@@ -8,10 +8,15 @@ public class GameManger : MonoBehaviour
 	//This is from brackeys tutorial video
 	private bool gameHasEnded = false;
 
+
+	public GameObject completeLevelUI;
+
 	public void CompleteLevel()
 	{
-		Debug.Log("Level Won!");
+		completeLevelUI.SetActive(true);
 	}
+
+	
 
 	public float restartDeylay = 1f;
 
