@@ -18,6 +18,7 @@
             <e p="GameManger.cs" t="Include" />
             <e p="IntData.cs" t="Include" />
             <e p="LevelEnd.cs" t="Include" />
+            <e p="Menus.cs" t="Include" />
             <e p="UiTextEd.cs" t="Include" />
           </e>
           <e p="WinScript.cs" t="Include" />

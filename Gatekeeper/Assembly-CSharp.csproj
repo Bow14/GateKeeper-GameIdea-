@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\Ui\GameManger.cs" />
     <Compile Include="Assets\Scripts\Ui\IntData.cs" />
     <Compile Include="Assets\Scripts\Ui\LevelEnd.cs" />
+    <Compile Include="Assets\Scripts\Ui\Menus.cs" />
     <Compile Include="Assets\Scripts\Ui\UiTextEd.cs" />
     <Compile Include="Assets\Scripts\WinScript.cs" />
     <Compile Include="Assets\Triggers\ActualTrigger.cs" />
