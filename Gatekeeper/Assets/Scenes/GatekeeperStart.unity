@@ -1605,6 +1605,7 @@ GameObject:
   - component: {fileID: 445009664}
   - component: {fileID: 445009663}
   - component: {fileID: 445009667}
+  - component: {fileID: 445009668}
   m_Layer: 0
   m_Name: RedGem
   m_TagString: Untagged
@@ -1729,6 +1730,18 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+--- !u!114 &445009668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 445009662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38d8d3513e78e054da47485311c1b7b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  keyType: 0
 --- !u!1 &481586109
 GameObject:
   m_ObjectHideFlags: 0

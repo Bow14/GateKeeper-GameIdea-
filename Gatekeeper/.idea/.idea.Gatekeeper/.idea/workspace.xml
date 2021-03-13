@@ -15,7 +15,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ui/UiTextEd.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WinScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ui/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Unlock.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ui/LevelEnd.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gemholder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Description.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ui/GameManger.cs" root0="FORCE_HIGHLIGHTING" />
@@ -46,6 +48,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Ui/GameManger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Ui/Menus.cs" />
+        <option value="$PROJECT_DIR$/Assets/Unlock.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gemholder.cs" />
       </list>
     </option>
   </component>
@@ -123,6 +127,7 @@
       <workItem from="1604469842056" duration="119000" />
       <workItem from="1612674954786" duration="104000" />
       <workItem from="1614588383612" duration="8000" />
+      <workItem from="1615603126785" duration="1064000" />
     </task>
     <servers />
   </component>
