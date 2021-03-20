@@ -12,10 +12,12 @@ public class Gemholder : MonoBehaviour
     private void Awake()
     {
         keyList = new List<Key.KeyType>();
+       
     }
 
     public void AddKey(Key.KeyType keyType)
     {
+        Debug.Log("GemFound"+ keyType);
         keyList.Add(keyType);
     }
 
@@ -27,6 +29,16 @@ public class Gemholder : MonoBehaviour
     public bool ContainKey(Key.KeyType keyType)
     {
         return keyList.Contains(keyType); //Allows the function to return to value
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        Unlock unlock = GetComponent<Unlock>();
+        if (unlock != null)
+        {
+            AddKey(unlock.GetKeyType());
+            Destroy(unlock.gameObject);
+        }
     }
 }
 

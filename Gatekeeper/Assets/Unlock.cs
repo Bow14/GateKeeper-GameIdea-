@@ -15,4 +15,14 @@ public class Unlock : MonoBehaviour {
     Purple,
         
     }
+
+    public KeyType GetUnlockType()
+    {
+        return GetUnlockType();
+    }
+
+    public Key.KeyType GetKeyType()
+    {
+        return GetKeyType();
+    }
 }
