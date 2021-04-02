@@ -39,6 +39,12 @@ public class Gemholder : MonoBehaviour
             AddKey(unlock.GetKeyType());
             Destroy(unlock.gameObject);
         }
+
+//        Gemdoor gemDoor = Collider.GetComponent<Gemdoor>();
+//        if (gemDoor != null)
+//        {
+//            
+//        }
     }
 }
 

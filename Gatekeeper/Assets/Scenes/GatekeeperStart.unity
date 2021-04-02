@@ -4041,7 +4041,6 @@ GameObject:
   - component: {fileID: 1059458826}
   - component: {fileID: 1059458825}
   - component: {fileID: 1059458829}
-  - component: {fileID: 1059458830}
   m_Layer: 0
   m_Name: RedGate
   m_TagString: Untagged
@@ -4144,17 +4143,6 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
---- !u!114 &1059458830
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1059458824}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 992925e8381f5d543841cc655b16c9bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1073554241
 GameObject:
   m_ObjectHideFlags: 0
@@ -6859,8 +6847,9 @@ GameObject:
   - component: {fileID: 1780992369}
   - component: {fileID: 1780992368}
   - component: {fileID: 1780992367}
-  - component: {fileID: 1780992366}
+  - component: {fileID: 1780992371}
   - component: {fileID: 1780992370}
+  - component: {fileID: 1780992366}
   m_Layer: 0
   m_Name: BlueGate
   m_TagString: Untagged
@@ -6962,6 +6951,18 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+--- !u!114 &1780992371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1780992365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 992925e8381f5d543841cc655b16c9bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  keyType: 1
 --- !u!1 &1792570956
 GameObject:
   m_ObjectHideFlags: 0
