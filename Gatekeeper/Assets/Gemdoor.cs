@@ -15,14 +15,10 @@ public class Gemdoor : MonoBehaviour
         Purple,
         
     }
+    
 
-    public KeyType GetUnlockType()
+    public KeyType GetKeyType()
     {
-        return GetUnlockType();
-    }
-
-    public Key.KeyType GetKeyType()
-    {
-        return GetKeyType();
+        return keyType;
     }
 }
