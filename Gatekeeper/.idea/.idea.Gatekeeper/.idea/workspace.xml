@@ -49,9 +49,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Ui/GameManger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Ui/Menus.cs" />
-        <option value="$PROJECT_DIR$/Assets/Gemholder.cs" />
         <option value="$PROJECT_DIR$/Assets/Unlock.cs" />
         <option value="$PROJECT_DIR$/Assets/Gemdoor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gemholder.cs" />
       </list>
     </option>
   </component>
@@ -135,6 +135,7 @@
       <workItem from="1616832243953" duration="595000" />
       <workItem from="1617343460787" duration="4027000" />
       <workItem from="1617508684648" duration="212000" />
+      <workItem from="1618031280460" duration="874000" />
     </task>
     <servers />
   </component>
@@ -166,6 +167,8 @@
     <state x="445" y="162" key="SettingsEditor/1920.1080/1920.1080" />
     <state x="646" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" />
     <state x="646" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.1080/1920.1080" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.1080/1920.1080" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

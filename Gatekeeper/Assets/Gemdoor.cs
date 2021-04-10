@@ -6,7 +6,7 @@ public class Gemdoor : MonoBehaviour
 {
     //tutorial on how to use doors with keys aka my gems
     //https://www.youtube.com/watch?v=MIt0PJHMN5Y&t=0s credit goes to Code monkey with this tutorial
-    [SerializeField] private KeyType keyType; //Serilaize field is used when you want your private variable to show up in editior
+    [SerializeField] private Key.KeyType keyType; //Serilaize field is used when you want your private variable to show up in editior
 
     public enum  KeyType
     {
@@ -17,8 +17,13 @@ public class Gemdoor : MonoBehaviour
     }
     
 
-    public KeyType GetKeyType()
+    public Key.KeyType GetKeyType()
     {
         return keyType;
+    }
+
+    public void OpenDoor()
+    {
+        gameObject.SetActive(false);
     }
 }
