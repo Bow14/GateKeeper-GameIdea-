@@ -28,6 +28,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Spikestuff.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Destory.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Counter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../InvasionCurrency/InvasionCurrency/Assets/PlayerStuff/SideMovement.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -52,6 +53,7 @@
         <option value="$PROJECT_DIR$/Assets/Unlock.cs" />
         <option value="$PROJECT_DIR$/Assets/Gemdoor.cs" />
         <option value="$PROJECT_DIR$/Assets/Gemholder.cs" />
+        <option value="$PROJECT_DIR$/../../InvasionCurrency/InvasionCurrency/Assets/PlayerStuff/SideMovement.cs" />
       </list>
     </option>
   </component>
@@ -137,6 +139,7 @@
       <workItem from="1617508684648" duration="212000" />
       <workItem from="1618031280460" duration="874000" />
       <workItem from="1623295190818" duration="601000" />
+      <workItem from="1624511978085" duration="173000" />
     </task>
     <servers />
   </component>
