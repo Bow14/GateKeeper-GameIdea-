@@ -29,6 +29,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Destory.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Counter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../InvasionCurrency/InvasionCurrency/Assets/PlayerStuff/SideMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ui/Camera.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -141,6 +142,8 @@
       <workItem from="1623295190818" duration="601000" />
       <workItem from="1624511978085" duration="173000" />
       <workItem from="1627698451424" duration="32000" />
+      <workItem from="1628046383695" duration="18000" />
+      <workItem from="1629164506021" duration="594000" />
     </task>
     <servers />
   </component>
